@@ -1,0 +1,11 @@
+
+[
+ {"Severity": "Month ","Column2": "killed","Column3": "Serious","Column4": "Slight","Column5": "No Injury","Column6": "Unknown","Number Accidents": "Count ","Column8": "Average","Column9": "Burst type","Column10": "Caught fire","number Fatal Accidents": "Count","Column12": "Average","Column13": "Burst tyre","Column14": "Caught fire"},
+ {"Severity": "June","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null},
+ {"Severity": "July","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null},
+ {"Severity": "August","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null},
+ {"Severity": "September","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null},
+ {"Severity": "October","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null},
+ {"Severity": "November","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null},
+ {"Severity": "December","Column2": null,"Column3": null,"Column4": null,"Column5": null,"Column6": null,"Number Accidents": null,"Column8": null,"Column9": null,"Column10": null,"number Fatal Accidents": null,"Column12": null,"Column13": null,"Column14": null}
+]

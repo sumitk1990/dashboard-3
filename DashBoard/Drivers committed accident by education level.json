@@ -1,0 +1,7 @@
+[
+ {"Drivers committed accident by education level": "Education Level","Column2": "Death","Column3": "Severe Injury","Column4": "Light Injury","Column5": "Damage on Assets","Column6": "Year"},
+ {"Drivers committed accident by education level": "Diploma","Column2": 250,"Column3": 5426,"Column4": 1452,"Column5": 256,"Column6": 2017},
+ {"Drivers committed accident by education level": "High School","Column2": 360,"Column3": 222,"Column4": 542,"Column5": 254,"Column6": 2018},
+ {"Drivers committed accident by education level": "High School","Column2": 52,"Column3": 1254,"Column4": 2145,"Column5": 122,"Column6": 2019},
+ {"Drivers committed accident by education level": "Diploma","Column2": 251,"Column3": 153,"Column4": 2541,"Column5": 152,"Column6": 2020}
+]

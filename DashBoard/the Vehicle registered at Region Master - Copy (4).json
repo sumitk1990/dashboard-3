@@ -1,0 +1,74 @@
+[
+ {
+  "January- December": "YEAR",
+  "Column2": "No. Of Accidents",
+  "Column3": "No.of fatalities",
+  "Column4": "No.of Injuries"
+ },
+ {
+  "January- December": 2014,
+  "Column2": 20078,
+  "Column3": 6906,
+  "Column4": 21636
+ },
+ {
+  "January- December": 2015,
+  "Column2": 21252,
+  "Column3": 7110,
+  "Column4": 22948
+ },
+ {
+  "January- December": "Grow Rate",
+  "Column2": 5.8,
+  "Column3": 3,
+  "Column4": 6.1
+ },
+ {
+  "January- December": 2016,
+  "Column2": 22811,
+  "Column3": 7219,
+  "Column4": 24217
+ },
+ {
+  "January- December": 2017,
+  "Column2": 22475,
+  "Column3": 6595,
+  "Column4": 24017
+ },
+ {
+  "January- December": "Grow Rate",
+  "Column2": -1.5,
+  "Column3": -8.6,
+  "Column4": -0.8
+ },
+ {
+  "January- December": 2018,
+  "Column2": 22230,
+  "Column3": 6603,
+  "Column4": 23613
+ },
+ {
+  "January- December": 2019,
+  "Column2": 21588,
+  "Column3": 6800,
+  "Column4": 22265
+ },
+ {
+  "January- December": "Grow Rate",
+  "Column2": -0.03,
+  "Column3": 0.03,
+  "Column4": -0.057
+ },
+ {
+  "January- December": 2020,
+  "Column2": 19164,
+  "Column3": 6668,
+  "Column4": 18745
+ },
+ {
+  "January- December": "Grow Rate",
+  "Column2": -11.23,
+  "Column3": -1.94,
+  "Column4": -15.81
+ }
+]

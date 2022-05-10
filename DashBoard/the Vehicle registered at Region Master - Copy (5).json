@@ -1,0 +1,16 @@
+[
+ {"SI.NO": 1,"Category": "Autrickshaw","No. Of Vehicles": 441224},
+ {"SI.NO": 2,"Category": "Contract Carriage","No. Of Vehicles": 9086},
+ {"SI.NO": 3,"Category": "e-Rickshaw\/e-Cart","No. Of Vehicles": 209},
+ {"SI.NO": 4,"Category": "Educational Institute Buses","No. Of Vehicles": 27870},
+ {"SI.NO": 5,"Category": "Goods Carriages","No. Of Vehicles": 546666},
+ {"SI.NO": 6,"Category": "Maxi Cab","No. Of Vehicles": 31020},
+ {"SI.NO": 7,"Category": "Motor Cab","No. Of Vehicles": 115386},
+ {"SI.NO": 8,"Category": "Motor Car","No. Of Vehicles": 1673797},
+ {"SI.NO": 9,"Category": "Motor Cycle","No. Of Vehicles": 10227021},
+ {"SI.NO": 10,"Category": "Private Service Vehicles","No. Of Vehicles": 2942},
+ {"SI.NO": 11,"Category": "Stage Carraiges","No. Of Vehicles": 18429},
+ {"SI.NO": 12,"Category": "Tractor And Trailers","No. Of Vehicles": 59096},
+ {"SI.NO": 13,"Category": "Other Vehicles","No. Of Vehicles": 79149},
+ {"SI.NO": null,"Category": "TOTAL","No. Of Vehicles": 13769895}
+]
